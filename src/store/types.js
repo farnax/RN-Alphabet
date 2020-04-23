@@ -1,0 +1,4 @@
+export const LOAD_LETTERS = 'LOAD_LETTERS';
+export const TOGGLE_BOOKED = 'TOGGLE_BOOKED';
+export const GET_SOUND_URL = 'GET_SOUND_URL';
+export const CLAEN_SOUNDURL_STATE = 'CLAEN_SOUNDURL_STATE';

@@ -1,0 +1,5 @@
+export const THEME = {
+  MAIN_COLOR: '#FFDD33',
+  FILL_COLOR: '#FFFFCC',
+  DANGER_COLOR: '#FF7518'
+};
